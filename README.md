@@ -10,7 +10,7 @@ SaundWawe — не просто плеер. Это твой персональн
 
 SaundWawe. Слушай глубже.
 
-# Телеграм канал проекта - https://t.me/saundwawe
+### Телеграм канал проекта - https://t.me/saundwawe
 
 ## EN
 
@@ -20,4 +20,4 @@ We've combined the best of streaming and local files in one elegant interface. C
 
  SaundWawe. Listen deeper.
 
- # Project telegram channel - https://t.me/saundwawe
+ ### Project telegram channel - https://t.me/saundwawe
